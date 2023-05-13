@@ -1,0 +1,10 @@
+.header{
+   text-align: center;
+   margin-top: 20px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: 30px;
+}
+@font-face {
+   font-family: 'Chonburi';
+   src: url('Chonburi-Regular.ttf');
+}
